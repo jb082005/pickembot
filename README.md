@@ -51,4 +51,6 @@ The bot uses slash commands to interact with users.
 
 **/add(sport)favorite** - record your favorite team for given sport (college only)
 
+**/remove(sport)favorite** - remove a favorite team from given sport (college only)
+
 **/(sport)conferences** - view a list of conferences available for given sport (college only)
