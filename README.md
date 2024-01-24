@@ -18,9 +18,10 @@ Pick'em currently offers contests for NFL, NBA, NHL, NCAAB and NCAAF!  More spor
 **COMMANDS**
 The bot uses slash commands to interact with users.  
 
-**ADMIN COMMANDS**: can only be used by someone with Administrator privileges.
+**ADMIN COMMANDS**: can only be used by someone with Administrator privileges. 
 
 **/assign(sport)** - assign a game-runner role whose member(s) will be able to set up, run, and restart contests for given sport
+  - **This needs to be completed before any games can be run!**
 
 
 **GAME-RUNNER COMMANDS**: can only be used by someone with the game-runner role (established in /assign above)
@@ -29,7 +30,9 @@ The bot uses slash commands to interact with users.
   - game_channel: the channel where games/contests will post
   - notification_role (optional): the role that will be tagged when a set of games/contests has finished posting
 
-**/lock(sport)** - manually lock buttons for games that have started. This should only be used if there is a glitch in the bot during automated locking
+**/lock(sport)** - manually lock buttons for games that have started. 
+  - A recent update has rendered this unnecessary.  Each time a button (team) is selected, the bot checks if the game has begun.
+    If it has, the game buttons will lock automatically and the pick will not count.
 
 **/post(sport)** - posts games/contest for given sport
   - week: define a week number for which to post games (football only)
