@@ -13,7 +13,7 @@ If you enjoy Pick'em bot, consider supporting me through the link below.  This w
 https://www.buymeacoffee.com/jb082005
 
 **GAMES**
-Pick'em currently offers contests for NFL, NBA, NHL, NCAAB and NCAAF!  More sports are added based on interest so join the support server and vote on what you want the next sport to be!
+Pick'em currently offers contests for MLB, NFL, NBA, NHL, NCAAB, NCAAF and PGA!  More sports are added based on interest so join the support server and vote on what you want the next sport to be!
 
 **COMMANDS**
 The bot uses slash commands to interact with users.  
