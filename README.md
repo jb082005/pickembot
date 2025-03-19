@@ -12,11 +12,16 @@ https://discord.com/invite/QazedBBhUj
 If you enjoy Pick'em bot, consider supporting me through the link below.  This will allow me to continue to pay for hosting and database access as well as developing more sports and games into the bot.
 https://www.buymeacoffee.com/jb082005
 
-**GAMES**
+**FREE SPORTS**
 Pick'em currently offers free contests for MLB, NFL, NBA, WNBA and NHL!
+
+**FREE GAMES**
+Pick'em bot includes capability to run a March Madness bracket contest!
 
 **PREMIUM**
 Upgrade your server to access additional sports and game modes!  NFL has two premium modes: Survivor and Locks.  Survivor is an eliminator game where users select one team each week to win. Each team can only be used once during the season and if your team loses, you're out!  Locks is a pick'em style game where you can select as many teams as you'd like each week, but you only score if every team you selected wins!
+
+Also included in premium is a Bet module - submit and take sides on custom bets within Discord. Set a time for the bet to lock and use a command to update it with the winner.  Each server has a custom leaderboard that will track scores.
 
 NCAAM, NCAAW, NCAAF, Soccer, ATP, WTA, MMA, and PGA are currently on the premium tier, but more sports will be added based on interest. Join the support server and let me know what you want the next sport to be!
 
@@ -55,6 +60,8 @@ The bot uses slash commands to interact with users.
 **USER COMMANDS**: can be used by anyone in the server
 
 **/help** - view a list of commands enabled by the bot
+
+**/helpmm** - view more help with March Madness
 
 **/mypicks** - view your selections for games in given sport that haven't been scored yet.
 
